@@ -1,0 +1,4 @@
+{
+  "hosts": ["zero2", "zero7"],
+  "default_host": "zero2"
+}

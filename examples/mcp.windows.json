@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "tmux-bridge": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["C:\\Users\\USER\\tmux-bridge\\server.py"]
+    }
+  }
+}
